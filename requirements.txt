@@ -1,0 +1,9 @@
+PyMuPDF==1.24.3
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-core==0.1.51
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+torch>=1.9.0
+transformers>=4.30.0
+ollama==0.1.7
